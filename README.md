@@ -15,7 +15,7 @@ Alguns detalhes sobre mim:
 
 ## Objetivos de conhecimento:
 
-* CLoud*
+* Cloud*
 * Redes*
 * Java*
 * C#*
