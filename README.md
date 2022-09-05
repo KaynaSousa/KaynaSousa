@@ -1,16 +1,24 @@
-### Hi there 👋
+## Olá, sou o Kaynã e estou criando este GitHub que irá evoluir com o tempo de acordo com o meu aprendizado!
 
-<!--
-**KaynaSousa/KaynaSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Alguns detalhes sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Eu atualmente estou estagiando Devops na Compasso.Uol
+- 🌱 Eu estou estudando Analise e Desenvolvimento de Sistemas.
+- 😄 Pronomes: Ele/Dele
+
+
+### Cursos Realizados:
+ * Em criação *
+
+
+
+## Objetivos de conhecimento:
+
+* CLoud*
+* Redes*
+* Java*
+* C#*
+* Analise de dados/BigData*
+
+
