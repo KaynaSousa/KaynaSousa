@@ -9,7 +9,11 @@ Alguns detalhes sobre mim:
 
 
 ### Cursos Realizados:
- * Em criação 
+ * Linux LPI - Alura
+ * Metodologias Agéis - Alura
+ * Docker - Alura
+ * Kubernetes - Alura
+ * AWS CLOUD - UDEMY
 
 
 
@@ -20,6 +24,6 @@ Alguns detalhes sobre mim:
 * Java
 * C#
 * Analise de dados/BigData
-* 
+
 
 
