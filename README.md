@@ -3,7 +3,7 @@
 
 Alguns detalhes sobre mim:
 
-- 🔭 Eu, atualmente, estou estagiando Devops na Compasso.Uol
+- 🔭 Participei de um prgrama de estágio na Compasso.Uol em DevSecOps de 5 meses.
 - 🌱 Eu estou estudando Analise e Desenvolvimento de Sistemas no 5º semestre.
 - 😄 Pronomes: Ele/Dele
 
