@@ -31,4 +31,4 @@ Alguns detalhes sobre mim:
 </div>
           
 
-![Snake animation](https://github.com/KaynaSousa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KaynaSousa/KaynaSousa/blob/output/github-contribution-grid-snake.svg)
