@@ -3,7 +3,7 @@
 
 Alguns detalhes sobre mim:
 
-- 🔭 Participei de um prgrama de estágio na Compasso.Uol em DevSecOps de 5 meses.
+- 🔭 Participei de um programa de estágio na Compasso.Uol em DevSecOps de 5 meses.
 - 🌱 Eu estou estudando Analise e Desenvolvimento de Sistemas no 5º semestre.
 - 😄 Pronomes: Ele/Dele
 
@@ -31,4 +31,4 @@ Alguns detalhes sobre mim:
 </div>
           
 
-![Snake animation](https://github.com/KaynaSousa/KaynaSousa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KaynaSousa/blob/output/github-contribution-grid-snake.svg)
